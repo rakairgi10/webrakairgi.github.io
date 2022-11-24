@@ -1,0 +1,36 @@
+body{
+        background-color :#EEEEE;
+        font-size: 16px;
+        color: rgb(255, 255, 255);
+        font-family:sans-serif;
+}
+.content{
+        width: 80%;
+        margin: 10px auto;
+}
+header{
+        background-color: rgb(176, 155, 155);
+        padding: 20px;
+        border-radius: 5px;
+        border: 2px solid #f8f0f0;
+        margin-bottom: 10px;
+}
+header h1.judul,
+header h3.deskripsi{
+        text-align:center ;
+}
+.menu{
+        background-color: rgb(228, 188, 188);
+        border-radius: 8px;
+        border: 1px solid #ffffff;
+        margin-bottom: 10px;
+}
+div.menu ul{
+        list-style: none;
+        overflow: hidden;
+}
+div.menu ul li{
+        float: left;
+        text-transform: uppercase;
+		padding:0px 10px;
+}
