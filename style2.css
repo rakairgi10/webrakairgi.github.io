@@ -1,0 +1,56 @@
+body{
+	background-color: #9E9F9F;
+	font-size: 16px;
+	color: #040404;
+	font-family: sans-serif;
+	}
+.content{
+	width: 80%;
+	margin: 10px auto;
+	}
+header{
+	background-color: #CFCFCF;
+	padding: 20px;
+	border-radius: 5px;
+	border: 1px solid #040404;
+	margin-bottom: 10px;
+	}
+header h1.judul,
+header h3.deskripsi{
+	text-align:center;}
+.menu{
+	background-color: #CFCFCF;
+	border-radius: 5px;
+	border: 1px solid #040404;
+	margin-bottom: 10px;
+}
+div.menu ul{
+	list-style: none;
+	overflow: hidden;
+}
+div.menu ul li{
+	float: left;
+	text-transform: uppercase;
+	padding: 0px 10px;
+}
+.kiri{
+	width: 30%;
+	float: left;
+	margin: auto;
+	background: #CFCFCF;
+	height: 420px;
+}
+.kanan{
+	width: 70%;
+	float: right;
+	margin: auto;
+	background: #CFCFCF;
+	height: 420px;
+}
+.border{
+	border: 2px solid #040404;
+	margin-top: 1pc;
+	padding-bottom: 1pc;
+	padding-left: 2pc;
+	padding-right: 2pc;
+}
